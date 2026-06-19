@@ -103,19 +103,14 @@ flowchart LR
 
 ## 📸 Visual Showcase
 
-### Interactive Dashboard
-> *(Placeholders for screenshots)*
+### Command Center Dashboard
 ![Dashboard](screenshots/dashboard.png)
 
-### Real-Time Cell Detection & Bounding Boxes
-![Detection](screenshots/detection.png)
-
-### AI Copilot & Clinical Report
-![Report](screenshots/report.png)
+### Historical Analysis Reports
+![History](screenshots/history.png)
 
 ### System Diagnostics
-![Diagnostics Frontend](screenshots/diagnostics.png)
-![Diagnostics Services](screenshots/diagnostics2.png)
+![Diagnostics](screenshots/diagnostics.png)
 
 ---
 
