@@ -114,7 +114,8 @@ flowchart LR
 ![Report](screenshots/report.png)
 
 ### System Diagnostics
-![Diagnostics](screenshots/diagnostics.png)
+![Diagnostics Frontend](screenshots/diagnostics.png)
+![Diagnostics Services](screenshots/diagnostics2.png)
 
 ---
 
