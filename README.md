@@ -106,6 +106,9 @@ flowchart LR
 ### Command Center Dashboard
 ![Dashboard](screenshots/dashboard.png)
 
+### Interactive Visual Workspace (Real-Time Detection)
+![Visual Workspace](screenshots/workspace.png)
+
 ### Historical Analysis Reports
 ![History](screenshots/history.png)
 
