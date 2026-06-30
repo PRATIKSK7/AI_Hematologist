@@ -1,5 +1,6 @@
 <div align="center">
-  
+  <img src="screenshots/banner.png" alt="AI Hematologist Banner" width="100%">
+
 # 🔬 AI Hematologist
 **Intelligent Blood Smear Analysis & Clinical Copilot Platform**
 
